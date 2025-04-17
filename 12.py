@@ -6,4 +6,4 @@ def pares():
     return pares
 
 resultado = ares()
-print("Números pares de 1 a 100:", resultado)
+print("Esses são os números pares de 1 a 100:", resultado)
