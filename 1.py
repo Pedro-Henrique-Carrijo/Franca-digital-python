@@ -1,6 +1,6 @@
-a = int(input("Me forneça um numero"))
-b = int(input("Me forneça outro numero"))
+n1 = int(input("Me forneça um numero"))
+n2 = int(input("Me forneça outro numero"))
 
-c = (a + b) / 2
+n3 = (n1 + n2) / 2
 
 print (c)
