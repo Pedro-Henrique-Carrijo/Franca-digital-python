@@ -8,7 +8,7 @@ def contagem_regressiva():
             segundos = 59
         else:
             segundos -= 1
-        if minutos == 8 and segundos == 57:  # para não imprimir infinitamente
+        if minutos == 8 and segundos == 57:
             break
 
 contagem_regressiva()
